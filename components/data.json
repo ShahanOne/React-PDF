@@ -1,0 +1,36 @@
+{
+  "buildingName": "The Capital, BKC",
+  "buildingImage": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVpbGRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+  "projectDetails": {
+    "land": "Leasehold",
+    "floorsNumber": "3B+G+19",
+    "floorSize": "65,000 sq.ft",
+    "ocStatus": "Received",
+    "buildingCompletion": "2012",
+    "designatedUsage": "Commercial",
+    "areaOfferred": "650 sq.ft",
+    "builtArea": "-",
+    "tenant": "Stallions",
+    "floor": "9th",
+    "transactionNature": "Pre-Leased"
+  },
+  "proposedCommercialTerms": {
+    "grossLicenseFee": "285,000",
+    "deductions": "28,000",
+    "netLicenseFee": "2,57,000",
+    "quotedSalePrice": "5,10,00,000",
+    "stampDutyAndRegistration": "30,90,000",
+    "otherCharges": "-",
+    "totalCost": "5,40,90,000",
+    "depositAmount": "22,80,000",
+    "netInvestment": "5,28,30,000",
+    "propertyTotalCost": "5.28 Cr",
+    "entryYield": "5.84%",
+    "averageYield": "7.11%",
+    "leaseTerm": "5 years",
+    "tenantsLockIn": "5 years",
+    "rentCommencement": "September-22",
+    "escalationinRent": "15% every 3 years",
+    "numberOfCarParks": "2"
+  }
+}

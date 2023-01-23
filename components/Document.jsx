@@ -13,12 +13,12 @@ function Document() {
 
   return (
     <>
-      <div className="flex font-poppins mx-4 my-4" id="document">
-        <div className="m-3">
+      <div className="flex lg:pl-0 font-poppins my-2 mx-4" id="document">
+        <div className="mx-2">
           <center>
-            <div className="imgDiv mb-6 w-full">
+            <div className="imgDiv mb-4 w-full">
               <img
-                className="w-64 h-56"
+                className="w-60 h-52"
                 src={data.buildingImage}
                 alt="property-img"
               />
@@ -26,7 +26,7 @@ function Document() {
             </div>
           </center>
 
-          <table className="table-fixed">
+          <table className="">
             <caption className="border border-slate-400 border-b-0 pb-2">
               <b>Project Details</b>
             </caption>
@@ -91,17 +91,12 @@ function Document() {
           </table>
         </div>
 
-        <div className="mt-3 ml-[2%]">
+        <div className="ml-[2%]">
           <div className="imgDiv">
-            <Image
-              className="float-right mb-2"
-              src={'/returns.png'}
-              width={180}
-              height={10}
-            />
+            <img className="mb-2 w-44 h-16" src={'/returns.png'} />
           </div>
 
-          <table className="table-fixed">
+          <table className="">
             <caption className="border border-slate-400 border-b-0 pb-2">
               <b>Proposed Commercial Terms</b>
             </caption>

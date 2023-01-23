@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main
-        className=" mx-16"
+        className=" min-w-[1024px] mx-4 lg:mx-28  my-12"
         // className="bg-[url('/texture.jpg')] mx-8"
       >
         <Document />
